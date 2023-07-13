@@ -1,4 +1,7 @@
-# NAME: direct
+DOMAIN-SUFFIX,apple.cn
+DOMAIN-SUFFIX,icloud.cn
+
+DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,bilibili.com
@@ -8,8 +11,13 @@ DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,xiaohongshu.com
+
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,icloud.com.cn
