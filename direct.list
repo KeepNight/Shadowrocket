@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,guokr.com
 DOMAIN-SUFFIX,googleapis-cn.com
 DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
@@ -43,4 +44,5 @@ DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,right.com.cn
 
+DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,csdn.net
