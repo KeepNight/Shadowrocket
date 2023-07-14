@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,hpplay.cn
 DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,lebo.cn
 
+DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncs.com
@@ -30,7 +31,12 @@ DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,ithome.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tencent.com
