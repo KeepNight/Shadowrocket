@@ -1,5 +1,6 @@
 #!name=xx
 #!desc=sss
+[Rule]
 szshort.weixin.qq.com
 szminorshort.weixin.qq.com
 dns.weixin.qq.com
