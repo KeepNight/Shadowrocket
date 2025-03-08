@@ -1,19 +1,12 @@
 #!name=xx
 #!desc=sss
 [Rule]
-szshort.weixin.qq.com
-szminorshort.weixin.qq.com
-dns.weixin.qq.com
-szextshort.weixin.qq.com
-mmbiz.qpic.cn
-wximg.wxs.qq.com
-DOMAIN,DIRECT
-DOMAIN,DIRECT
-DOMAIN,DIRECT
-DOMAIN,DIRECT
-DOMAIN,DIRECT
-DOMAIN,DIRECT
-DOMAIN,DIRECT
-DOMAIN,DIRECT
-DOMAIN,DIRECT
-DOMAIN,DIRECT
+
+# 微信
+DOMAIN,dns.weixin.qq.com,DIRECT
+DOMAIN,szshort.weixin.qq.com,DIRECT
+DOMAIN,szextshort.weixin.qq.com,DIRECT
+DOMAIN,szminorshort.weixin.qq.com,DIRECT
+# 腾讯
+IP-CIDR,175.27.0.0/16,DIRECT,no-resolve
+IP-CIDR,45.253.40.0/22,DIRECT,no-resolve
