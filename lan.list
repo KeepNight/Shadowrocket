@@ -1,8 +1,8 @@
-IP-CIDR,0.0.0.0/8
-IP-CIDR,5.0.0.0/8
-IP-CIDR,9.0.0.0/8
-IP-CIDR,10.0.0.0/8
-IP-CIDR,100.0.0.0/8
+IP-CIDR,0.0.0.0/8,no-resolve
+IP-CIDR,5.0.0.0/8,no-resolve
+IP-CIDR,9.0.0.0/8,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,100.0.0.0/8,no-resolve
 IP-CIDR,150.0.0.0/8
 IP-CIDR,200.0.0.0/8
 
